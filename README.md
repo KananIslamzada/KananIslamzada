@@ -1,21 +1,58 @@
-### Hi there 👋
-My name is Kanan and I'm a Mobile developer.
+<h1 align="center">Hi there 👋</h1>
 
-[![Linkedin: kananislamzada](https://img.shields.io/badge/-kananislamzada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kananislamzada/)](https://www.linkedin.com/in/kananislamzada/)    ![ViewCount](https://komarev.com/ghpvc/?username=kananislamzada&color=1A4730)
-[![GitHub Thaiane](https://img.shields.io/github/followers/KananIslamzada?label=follow&style=social)](https://github.com/KananIslamzada)
+<p align="center">
+  I'm <b>Kanan Islamzada</b><br/>
+  Mobile Developer focused on <b>React Native</b>
+</p>
 
-### Languages and Tools
+---
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React Native" width="26px" src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" />
-<img align="left" alt="Node" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
-<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Redux" width="26px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" />
-<img align="left" alt="graphlql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### 🚀 About Me
+- 📱 Building cross-platform mobile apps with React Native  
+- ⚡ Focused on performance, animations & smooth UX  
+- 🌍 Based in Poland  
+- 🎓 Background in Data Science  
+- 💼 Open to new opportunities  
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,html,css,sass,git,github,bash" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kananislamzada&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kananislamzada&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🚀 Mobile apps built with React Native  
+- 🎨 Custom UI components & animations  
+- 📈 Data-driven projects  
+
+---
+
+### 📫 Contact Me
+
+<p>
+  <a href="mailto:kananosdev@email.com">Email</a> •
+  <a href="https://linkedin.com/in/kananislamzada">LinkedIn</a> •
+  <a href="https://kananis.dev">Portfolio</a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Always building. Always learning.
+</p>
