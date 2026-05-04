@@ -1,78 +1,65 @@
 <div align="center">
 
-# Hey, I'm Kanan 👋
+# 👋 Hey, I'm Kanan
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=React+Native+Mobile+Developer;Building+iOS+%26+Android+Apps;Smooth+UI.+Clean+Code.+Real+Products."
-  alt="Typing SVG"
-/>
+### 📱 React Native Mobile Developer
 
-<br/>
-
-<a href="https://kananis.dev">Portfolio</a> •
-<a href="https://www.linkedin.com/in/kananislamzada">LinkedIn</a> •
-<a href="mailto:kananosdev@gmail.com">Email</a>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=5%2B+Years+Building+Mobile+Apps;iOS+%2B+Android+Developer;Fintech+%7C+IoT+%7C+E-commerce;Real-time+%7C+BLE+%7C+WebSocket" alt="Typing SVG" />
 
 ---
 
-<div align="center">
+### 🛠️ Tech Stack
 
-### 📱 Mobile Developer creating cross-platform apps for iOS & Android
-
-I build production-ready mobile applications with polished UI, real-time features, maps, analytics, and scalable architecture.
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,nodejs,graphql,firebase,mongodb,arduino,python,html,css,git,github,gitlab,npm&perline=8" alt="Tech Stack" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 📱 Mobile Expertise
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+<p align="center">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </p>
 
-### Mobile & Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux" />
+<p align="center">
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket"/>
 </p>
 
-`React Native` · `Expo` · `React Native CLI` · `iOS` · `Android` · `ReactJS`
-
-### Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase,graphql" />
+<p align="center">
+<img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="BLE"/>
 </p>
-
-`REST API` · `WebSocket` · `Socket.io` · `Apollo Client` · `RTK Query` · `TanStack Query`
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,bash" />
-</p>
-
-`GitHub Actions` · `CI/CD` · `Sentry` · `Mixpanel` · `PostHog` · `Appium`
-
-### Maps, IoT & Hardware
-`MapBox` · `Map Tiles` · `Geospatial APIs` · `BLE` · `Arduino` · `ESP32`
 
 ---
 
-<div align="center">
+### 🌐 Connect With Me
 
-## 🚀 Available for React Native opportunities
+<p align="center">
+<a href="https://kananis.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/kananislamzada"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/kananIslamzada"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://gitlab.com/KananIslamzada"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
+<a href="https://npmjs.com/~kananislamzada"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/></a>
+<a href="mailto:kananosdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2200&pause=1000&color=9B5CFF&center=true&vCenter=true&width=600&lines=Let's+build+fast+and+beautiful+mobile+apps.;From+idea+to+App+Store+and+Google+Play."
-  alt="Mobile Development Typing SVG"
-/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kananIslamzada&color=61DAFB&style=flat-square" alt="Profile Views"/>
+</p>
 
-<br/><br/>
+---
 
-<a href="mailto:kananosdev@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20Message-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+<sub>Building mobile experiences across iOS & Android | From concept to production</sub>
+</p>
 
 </div>
