@@ -4,7 +4,7 @@
 
 ### 📱 React Native Mobile Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=5%2B+Years+Building+Mobile+Apps;iOS+%2B+Android+Developer;Fintech+%7C+IoT+%7C+E-commerce;Real-time+%7C+BLE+%7C+WebSocket" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=6%2B+Years+Building+Mobile+Apps;iOS+%2B+Android+Developer;Fintech+%7C+IoT+%7C+E-commerce;Real-time+%7C+BLE+%7C+WebSocket" alt="Typing SVG" />
 
 ---
 
